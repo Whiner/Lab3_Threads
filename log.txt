@@ -1,0 +1,140 @@
+Tue Sep 18 11:37:02 EEST 2018 main Поток логгера открыт
+Tue Sep 18 11:37:02 EEST 2018 main Файл file.csv добавлен в очередь
+Tue Sep 18 11:37:02 EEST 2018 main Файл file1.csv добавлен в очередь
+Tue Sep 18 11:37:02 EEST 2018 main Файл file2.csv добавлен в очередь
+Tue Sep 18 11:37:02 EEST 2018 main Файл file3.csv добавлен в очередь
+Tue Sep 18 11:37:02 EEST 2018 main Файл file4.csv добавлен в очередь
+Tue Sep 18 11:37:02 EEST 2018 main Файл file5.csv добавлен в очередь
+Tue Sep 18 11:37:02 EEST 2018 main Поток Thread-0 начал свою работу
+Tue Sep 18 11:37:02 EEST 2018 main Поток Thread-1 начал свою работу
+Tue Sep 18 11:37:02 EEST 2018 main Поток Thread-2 начал свою работу
+Tue Sep 18 11:37:02 EEST 2018 main Поток Thread-3 начал свою работу
+Tue Sep 18 11:37:02 EEST 2018 main Поток Thread-4 начал свою работу
+Tue Sep 18 11:37:02 EEST 2018 main Поток Thread-5 начал свою работу
+Tue Sep 18 11:37:02 EEST 2018 Thread-1 Файл (file.csv) открыт
+Tue Sep 18 11:37:02 EEST 2018 Thread-0 Файл (file3.csv) открыт
+Tue Sep 18 11:37:02 EEST 2018 Thread-2 Файл (file5.csv) открыт
+Tue Sep 18 11:37:02 EEST 2018 Thread-1 Получен объект типа Mammal
+Tue Sep 18 11:37:02 EEST 2018 Thread-0 Получен объект типа Mammal
+Tue Sep 18 11:37:02 EEST 2018 Thread-2 Получен объект типа Mammal
+Tue Sep 18 11:37:02 EEST 2018 Thread-3 Файл (file4.csv) открыт
+Tue Sep 18 11:37:02 EEST 2018 Thread-3 Получен объект типа Mammal
+Tue Sep 18 11:37:02 EEST 2018 Thread-4 Файл (file1.csv) открыт
+Tue Sep 18 11:37:02 EEST 2018 Thread-4 Получен объект типа Mammal
+Tue Sep 18 11:37:02 EEST 2018 Thread-5 Файл (file2.csv) открыт
+Tue Sep 18 11:37:02 EEST 2018 Thread-5 Получен объект типа Mammal
+Tue Sep 18 11:37:02 EEST 2018 Thread-1 Получен объект типа Mammal
+Tue Sep 18 11:37:02 EEST 2018 Thread-0 Получен объект типа Mammal
+Tue Sep 18 11:37:02 EEST 2018 Thread-4 Получен объект типа Mammal
+Tue Sep 18 11:37:02 EEST 2018 Thread-5 Получен объект типа Mammal
+Tue Sep 18 11:37:02 EEST 2018 Thread-4 Получен объект типа Mammal
+Tue Sep 18 11:37:02 EEST 2018 Thread-0 Получен объект типа Mammal
+Tue Sep 18 11:37:02 EEST 2018 Thread-1 Получен объект типа Mammal
+Tue Sep 18 11:37:02 EEST 2018 Thread-0 Получен объект типа Bird
+Tue Sep 18 11:37:02 EEST 2018 Thread-1 Получен объект типа Bird
+Tue Sep 18 11:37:02 EEST 2018 Thread-0 Получен объект типа Bird
+Tue Sep 18 11:37:02 EEST 2018 Thread-1 Получен объект типа Bird
+Tue Sep 18 11:37:02 EEST 2018 Thread-0 Получен объект типа Bird
+Tue Sep 18 11:37:02 EEST 2018 Thread-2 Получен объект типа Mammal
+Tue Sep 18 11:37:02 EEST 2018 Thread-3 Получен объект типа Mammal
+Tue Sep 18 11:37:02 EEST 2018 Thread-1 Получен объект типа Bird
+Tue Sep 18 11:37:02 EEST 2018 Thread-0 Поток Thread-8 начал свою работу
+Tue Sep 18 11:37:02 EEST 2018 Thread-4 Получен объект типа Bird
+Tue Sep 18 11:37:02 EEST 2018 Thread-1 Поток Thread-6 начал свою работу
+Tue Sep 18 11:37:02 EEST 2018 Thread-5 Получен объект типа Mammal
+Tue Sep 18 11:37:02 EEST 2018 Thread-2 Получен объект типа Mammal
+Tue Sep 18 11:37:02 EEST 2018 Thread-4 Получен объект типа Bird
+Tue Sep 18 11:37:02 EEST 2018 Thread-3 Получен объект типа Mammal
+Tue Sep 18 11:37:02 EEST 2018 Thread-1 Поток Thread-12 начал свою работу
+Tue Sep 18 11:37:02 EEST 2018 Thread-3 Получен объект типа Bird
+Tue Sep 18 11:37:02 EEST 2018 Thread-2 Получен объект типа Bird
+Tue Sep 18 11:37:02 EEST 2018 Thread-1 Поток Thread-18 начал свою работу
+Tue Sep 18 11:37:02 EEST 2018 Thread-5 Получен объект типа Bird
+Tue Sep 18 11:37:02 EEST 2018 Thread-4 Получен объект типа Bird
+Tue Sep 18 11:37:02 EEST 2018 Thread-5 Получен объект типа Bird
+Tue Sep 18 11:37:02 EEST 2018 Thread-0 Поток Thread-13 начал свою работу
+Tue Sep 18 11:37:02 EEST 2018 Thread-4 Поток Thread-9 начал свою работу
+Tue Sep 18 11:37:02 EEST 2018 Thread-5 Получен объект типа Bird
+Tue Sep 18 11:37:02 EEST 2018 Thread-0 Поток Thread-17 начал свою работу
+Tue Sep 18 11:37:02 EEST 2018 Thread-1 Поток Thread-20 начал свою работу
+Tue Sep 18 11:37:02 EEST 2018 Thread-2 Получен объект типа Bird
+Tue Sep 18 11:37:02 EEST 2018 Thread-0 Поток Thread-19 начал свою работу
+Tue Sep 18 11:37:02 EEST 2018 Thread-3 Получен объект типа Bird
+Tue Sep 18 11:37:02 EEST 2018 Thread-5 Поток Thread-7 начал свою работу
+Tue Sep 18 11:37:02 EEST 2018 Thread-3 Получен объект типа Bird
+Tue Sep 18 11:37:02 EEST 2018 Thread-4 Поток Thread-14 начал свою работу
+Tue Sep 18 11:37:02 EEST 2018 Thread-1 Поток Thread-22 начал свою работу
+Tue Sep 18 11:37:02 EEST 2018 Thread-5 Поток Thread-15 начал свою работу
+Tue Sep 18 11:37:02 EEST 2018 Thread-0 Поток Thread-21 начал свою работу
+Tue Sep 18 11:37:02 EEST 2018 Thread-2 Получен объект типа Bird
+Tue Sep 18 11:37:02 EEST 2018 Thread-5 Поток Thread-28 начал свою работу
+Tue Sep 18 11:37:02 EEST 2018 Thread-1 Поток Thread-26 начал свою работу
+Tue Sep 18 11:37:02 EEST 2018 Thread-4 Поток Thread-16 начал свою работу
+Tue Sep 18 11:37:02 EEST 2018 Thread-5 Поток Thread-34 начал свою работу
+Tue Sep 18 11:37:02 EEST 2018 Thread-0 Поток Thread-23 начал свою работу
+Tue Sep 18 11:37:02 EEST 2018 Thread-5 Поток Thread-36 начал свою работу
+Tue Sep 18 11:37:02 EEST 2018 Thread-2 Поток Thread-11 начал свою работу
+Tue Sep 18 11:37:02 EEST 2018 Thread-4 Поток Thread-27 начал свою работу
+Tue Sep 18 11:37:02 EEST 2018 Thread-3 Поток Thread-10 начал свою работу
+Tue Sep 18 11:37:02 EEST 2018 Thread-4 Поток Thread-30 начал свою работу
+Tue Sep 18 11:37:02 EEST 2018 Thread-2 Поток Thread-24 начал свою работу
+Tue Sep 18 11:37:02 EEST 2018 Thread-5 Поток Thread-37 начал свою работу
+Tue Sep 18 11:37:02 EEST 2018 Thread-2 Поток Thread-29 начал свою работу
+Tue Sep 18 11:37:02 EEST 2018 Thread-4 Поток Thread-35 начал свою работу
+Tue Sep 18 11:37:02 EEST 2018 Thread-3 Поток Thread-25 начал свою работу
+Tue Sep 18 11:37:02 EEST 2018 Thread-2 Поток Thread-33 начал свою работу
+Tue Sep 18 11:37:02 EEST 2018 Thread-3 Поток Thread-31 начал свою работу
+Tue Sep 18 11:37:02 EEST 2018 Thread-2 Поток Thread-38 начал свою работу
+Tue Sep 18 11:37:02 EEST 2018 Thread-3 Поток Thread-32 начал свою работу
+Tue Sep 18 11:37:02 EEST 2018 Thread-2 Поток Thread-41 начал свою работу
+Tue Sep 18 11:37:02 EEST 2018 Thread-3 Поток Thread-39 начал свою работу
+Tue Sep 18 11:37:02 EEST 2018 Thread-3 Поток Thread-40 начал свою работу
+Tue Sep 18 11:37:02 EEST 2018 Thread-8 Поток Thread-8 создал MAMMAL
+Tue Sep 18 11:37:02 EEST 2018 Thread-6 Поток Thread-6 создал MAMMAL
+Tue Sep 18 11:37:02 EEST 2018 Thread-12 Поток Thread-12 создал MAMMAL
+Tue Sep 18 11:37:02 EEST 2018 Thread-13 Поток Thread-13 создал MAMMAL
+Tue Sep 18 11:37:02 EEST 2018 Thread-18 Поток Thread-18 создал MAMMAL
+Tue Sep 18 11:37:02 EEST 2018 Thread-20 Поток Thread-20 создал BIRD
+Tue Sep 18 11:37:02 EEST 2018 Thread-9 Поток Thread-9 создал MAMMAL
+Tue Sep 18 11:37:02 EEST 2018 Thread-17 Поток Thread-17 создал MAMMAL
+Tue Sep 18 11:37:02 EEST 2018 Thread-14 Поток Thread-14 создал MAMMAL
+Tue Sep 18 11:37:02 EEST 2018 Thread-19 Поток Thread-19 создал BIRD
+Tue Sep 18 11:37:02 EEST 2018 Thread-21 Поток Thread-21 создал BIRD
+Tue Sep 18 11:37:02 EEST 2018 Thread-26 Поток Thread-26 создал BIRD
+Tue Sep 18 11:37:02 EEST 2018 Thread-22 Поток Thread-22 создал BIRD
+Tue Sep 18 11:37:02 EEST 2018 Thread-39 Поток Thread-39 создал BIRD
+Tue Sep 18 11:37:02 EEST 2018 Thread-32 Поток Thread-32 создал BIRD
+Tue Sep 18 11:37:02 EEST 2018 Thread-1 Файл (file.csv) закрыт
+Tue Sep 18 11:37:02 EEST 2018 Thread-41 Поток Thread-41 создал BIRD
+Tue Sep 18 11:37:02 EEST 2018 Thread-37 Поток Thread-37 создал BIRD
+Tue Sep 18 11:37:02 EEST 2018 Thread-33 Поток Thread-33 создал BIRD
+Tue Sep 18 11:37:02 EEST 2018 Thread-35 Поток Thread-35 создал BIRD
+Tue Sep 18 11:37:02 EEST 2018 Thread-40 Поток Thread-40 создал BIRD
+Tue Sep 18 11:37:02 EEST 2018 Thread-30 Поток Thread-30 создал BIRD
+Tue Sep 18 11:37:02 EEST 2018 Thread-38 Поток Thread-38 создал BIRD
+Tue Sep 18 11:37:02 EEST 2018 Thread-27 Поток Thread-27 создал BIRD
+Tue Sep 18 11:37:02 EEST 2018 Thread-1 Поток Thread-1 окончил свою работу
+Tue Sep 18 11:37:02 EEST 2018 Thread-7 Поток Thread-7 создал MAMMAL
+Tue Sep 18 11:37:02 EEST 2018 Thread-11 Поток Thread-11 создал MAMMAL
+Tue Sep 18 11:37:02 EEST 2018 Thread-25 Поток Thread-25 создал MAMMAL
+Tue Sep 18 11:37:02 EEST 2018 Thread-31 Поток Thread-31 создал MAMMAL
+Tue Sep 18 11:37:02 EEST 2018 Thread-10 Поток Thread-10 создал MAMMAL
+Tue Sep 18 11:37:02 EEST 2018 Thread-23 Поток Thread-23 создал BIRD
+Tue Sep 18 11:37:02 EEST 2018 Thread-16 Поток Thread-16 создал MAMMAL
+Tue Sep 18 11:37:02 EEST 2018 Thread-3 Файл (file4.csv) закрыт
+Tue Sep 18 11:37:02 EEST 2018 Thread-3 Поток Thread-3 окончил свою работу
+Tue Sep 18 11:37:02 EEST 2018 Thread-28 Поток Thread-28 создал MAMMAL
+Tue Sep 18 11:37:02 EEST 2018 Thread-0 Файл (file3.csv) закрыт
+Tue Sep 18 11:37:02 EEST 2018 Thread-0 Поток Thread-0 окончил свою работу
+Tue Sep 18 11:37:02 EEST 2018 Thread-4 Файл (file1.csv) закрыт
+Tue Sep 18 11:37:02 EEST 2018 Thread-4 Поток Thread-4 окончил свою работу
+Tue Sep 18 11:37:02 EEST 2018 Thread-34 Поток Thread-34 создал BIRD
+Tue Sep 18 11:37:02 EEST 2018 Thread-29 Поток Thread-29 создал MAMMAL
+Tue Sep 18 11:37:02 EEST 2018 Thread-24 Поток Thread-24 создал MAMMAL
+Tue Sep 18 11:37:02 EEST 2018 Thread-15 Поток Thread-15 создал MAMMAL
+Tue Sep 18 11:37:02 EEST 2018 Thread-36 Поток Thread-36 создал BIRD
+Tue Sep 18 11:37:02 EEST 2018 Thread-2 Файл (file5.csv) закрыт
+Tue Sep 18 11:37:02 EEST 2018 Thread-2 Поток Thread-2 окончил свою работу
+Tue Sep 18 11:37:02 EEST 2018 Thread-5 Файл (file2.csv) закрыт
+Tue Sep 18 11:37:02 EEST 2018 Thread-5 Поток Thread-5 окончил свою работу
+Tue Sep 18 11:37:02 EEST 2018 main Поток записи логгера закрыт
